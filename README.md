@@ -1,1 +1,1 @@
-# googleBooksAPI
+# google-books
